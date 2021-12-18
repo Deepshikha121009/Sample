@@ -30,4 +30,4 @@
           <h3 class="news-header">NCL Grant Call Workshop</h3>
          <p align="justify">National Cybersecurity R&amp;D Laboratories (NCL) conducted a cybersecurity workshop in Dec 2020</p>
 </div>
-         </div>
+</div>
