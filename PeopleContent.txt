@@ -69,7 +69,7 @@
                     </div>
                 </div>
 
-		<div class="col-sm-6">
+                <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Tha Zin Hlaing</b></h8>
                         <p><b><font color="585656">Software Engineer (Development)</font></b> </p>
@@ -89,14 +89,14 @@
                     </div>
                 </div>
 
-		<div class="col-sm-6">
+                <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Seah Choon Meng</b></h8>
-                        <p><b><font color="585656">NCL PROGRAM DIRECTOR</font></b></p>
+                        <p><b><font color="585656">NCL Program Director</font></b> </p>
                     </div>
                 </div>
 
-		<div class="col-sm-6">
+                <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Xu Jia</b></h8>
                         <p><b><font color="585656">Senior Research Fellow</font></b> </p>
@@ -107,7 +107,6 @@
                     <div class="row">
                         <h8><b>Huang Kang</b></h8>
                         <p><b><font color="585656">Research Affiliate</font></b> </p>
-
                     </div>
                 </div>
             </div>
