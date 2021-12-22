@@ -57,8 +57,7 @@
                     <div class="row">
                         <h8><b>Armanadurni Binte Abdul Rahman</b></h8>
                         <p><b><font color="585656">Senior Executive (Business Operations)</font></b> </p>
-			<p>..</p>
-			<p></p>
+			<p> </p>
                     </div>
                 </div>
 
