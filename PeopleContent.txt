@@ -32,6 +32,13 @@
                         </p>
                     </div>
                 </div>
+
+		<div class="col-sm-6">
+                    <div class="row">
+                        <h8><b>Seah Choon Meng</b></h8>
+                        <p><b><font color="585656">NCL Program Director</font></b> </p>
+                    </div>
+                </div>
             </div>
 
             <div class="row">
@@ -85,13 +92,6 @@
                         <p><b><font color="585656">Assistant Program Director (Technology)</font></b></p>
                         <p>Software Defined Networking | Internet Security </p>
                         <p><a href="https://sg.linkedin.com/in/ariscahyadirisdianto"><img src="images/linkedin_icon2.png" alt="" width="20"  height="20" border="0" align="left"/></a></p>
-                    </div>
-                </div>
-
-                <div class="col-sm-6">
-                    <div class="row">
-                        <h8><b>Seah Choon Meng</b></h8>
-                        <p><b><font color="585656">NCL Program Director</font></b> </p>
                     </div>
                 </div>
 
