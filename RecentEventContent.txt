@@ -31,7 +31,7 @@
          <p align="justify">National Cybersecurity R&amp;D Laboratories (NCL) conducted a cybersecurity workshop in Dec 2020</p>
 </div>
 
-<div class="col-md-4 wp4">
+	<div class="col-md-4 wp4">
              <div class="overlay-effect effects clearfix">
                <div class="img">
 		 <img src="images/ncl_ctf2.jpg" style="display: none" onload="loadImage('ITE_CCC_2021.JPG','img1','JPG')"/>
@@ -41,4 +41,4 @@
           <h3 class="news-header">ITE CCC</h3>
          <p align="justify">National Cybersecurity R&amp;D Laboratories (NCL) conducted a cybersecurity event for ITE College East, NCL and AWS in Oct 2021</p>
 </div>
-         </div>
+</div>
