@@ -32,6 +32,10 @@
                         </p>
                     </div>
                 </div>
+            </div>
+
+            <div class="row">
+                <h2 class="team-heading team-heading-current-team1"><b>Development &amp; Operations</b></h2>
 
 		<div class="col-sm-6">
                     <div class="row">
@@ -39,10 +43,6 @@
                         <p><b><font color="585656">NCL Program Director</font></b> </p>
                     </div>
                 </div>
-            </div>
-
-            <div class="row">
-                <h2 class="team-heading team-heading-current-team1"><b>Development &amp; Operations</b></h2>
                 <div class="col-sm-6">
                     <div class="row">
                         <h8><b>Nidhi Kushwah</b></h8>
