@@ -35,7 +35,7 @@
              <div class="overlay-effect effects clearfix">
                <div class="img">
 		 <img src="images/ncl_ctf2.jpg" style="display: none" onload="loadImage('ITE_CCC_2021.JPG','img1','JPG')"/>
-                 <img class="img-responsive" src="images/ncl_ctf2.jpg" width="720" id="img1" height="400" alt="ITE_MOU_1"/>
+                 <img class="img-responsive" width="720" id="img1" height="400" alt="ITE_MOU_1"/>
                </div>
              </div>
           <h3 class="news-header">ITE CCC 2021</h3>
